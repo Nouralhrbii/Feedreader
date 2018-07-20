@@ -1,7 +1,7 @@
 # Udacity FEND Project 6: Feed Reader Testing with Jasmine
 
 ## How to use this app:
-Open index.html with your browser. You will see two parts to the screen. The upper part has the functionality of the app and the lower part displays the results of the tests. Tests are run when the page loads.
+Download and extract the zip file for this repo, and then open index.html with your browser. You will see two parts to the screen. The upper part has the functionality of the app and the lower part displays the results of the tests. Tests are run when the page loads.
 
 ## The tests are:
 
